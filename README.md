@@ -8,6 +8,7 @@ We develop a set of recommendations on best practices when considering a set of 
 How to contribute to this project
 ---------------------------------
 1) Fork the repo to your local GitHub account
+
 2) Clone your forked version of the repo to your machine
 
 `git clone git@github.com:your_user_name/collaborative-tools.git`
