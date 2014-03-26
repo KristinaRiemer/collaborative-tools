@@ -6,7 +6,7 @@ However it is not always which tools are best for a particular task and group si
 We develop a set of recommendations on best practices when considering a set of tools for carrying out collaboration.
 
 How to contribute to this project
-=================================
+---------------------------------
 1) Fork the repo to your local GitHub account
 2) Clone your forked version of the repo to your machine
 
