@@ -23,6 +23,7 @@ How to contribute to this project
 5)  Merge those changes with your local copy
 
 `git merge upstream/master`
+
 6)  Commit the merges to your repo
 
 `git commit -m "Merge upstream changes"`
