@@ -27,6 +27,14 @@ Collaborative tools can aid every step along the research timeline (i.e., idea, 
 * some of these tools might be useful for teaching
 
 Question: What activities are these tools useful for?
+* Information types = ideas/brainstorms, data + metadata, data analysis, manuscripts, code, presentations/posters
+
+1. Provide a "holding tank" for all information types, which can be made available to select collaborators or to public; easier for others to access this information
+2. Change information with collaborators--everyone can see what has been changed, improves workflow, i.e., more efficient to work on together, keep track of what's going on
+3. Retain record of all changes that have occurred (can to return to previous version when necessary) and who did those changes (account for effort and actions of each collaborator)
+4. With all information and actions recorded, can easily repeat part or all of what was done (reproducibility)
+
+* Need to add in hypothetical examples to make it more concrete
  
 ##Helpful evaluation techniques
 * cost benefit breakdown 
