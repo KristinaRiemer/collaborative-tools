@@ -25,6 +25,8 @@ Collaborative tools can aid every step along the research timeline (i.e., idea, 
   * improves work efficiency
   * reproduce-ability
 * some of these tools might be useful for teaching
+
+Question: What activities are these tools useful for?
  
 ##Helpful evaluation techniques
 * cost benefit breakdown 
