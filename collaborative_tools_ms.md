@@ -3,18 +3,24 @@ As collaborative work becomes increasingly the norm in science it is important t
 Using modern communication tools improves record keeping and overall effectiveness of communication and workflow in science collaborations [@Ram2013].
 Collaborative tools benefit the larger research community by increasing communication, transparency, and synergism among complementary research programs. 
 With the growing array of collaborative tools available on-line, it is unclear which are most appropriate for particular tasks (e.g., brainstorming, analyzing, writing) and scales of collaboration (e.g., colleague, lab, working group, research network). 
-Here we describe ways in which modern collaborative tools can benefit your research program and provide a framework for evaluating and choosing an appropriate tool for collaborative work.  
+Here, we describe ways in which modern collaborative tools can benefit your research program and provide a framework for evaluating and choosing an appropriate tool for collaborative work.  
 In addition, we recognize a number collaborative tools commonly used in ecology and evolutionary biology research programs.
 
 Collaboration is a growing aspect of modern science as evident by growing author lines and increased funding to interdisciplinary work [cite].
-* student - mentor relationship (at minimum)
-* group consists of people with diversified skills sets and efforts (not all collaborators have to use all tools in group)
-* important to be sure all participants know their role
+Indeed, collaboration has been a long-standing staple of the scientific process, at the very least through student and mentor relationships.
+Modern collaborative groups consists of interdisciplinary scientists and practicioners with diversified skills sets, both intelectually and technology-based. 
+In addition, group members dedicate various effort to a certain project and must be given opportunity to maximize their time. 
+Proficiency using collaborative tools by each group member is highly beneficial to maximizing effort, but not all collaborators have to use all tools used by the group to be an effective contributor.
+It is most important to be sure all participants know their role in the group and feel empowered (i.e., not intimidated) by the collaborative work flow.
 
 Collaborative tools can aid every step along the research timeline (i.e., idea, data collection, analysis, communication).
-* tools vary in effectiveness for group size, labor division, &  task (period of research timeline)
-* tools useful independent of proximity
-* software development
+Many collaborative tools have emerged through software development in response to the advent of cloud computing and growing on-line collaborations.
+These modern collaborative tools can be useful independent of proximity and help develop strong communication channels throughout the collaborative work flow.
+Tools vary in effectiveness for group size, labor division, and project task among periods of the research timeline.
+Users must consider the effectiveness of a particular tool and its alternates in relation to required start-up effort and collaborative benefits.
+Most often, clear trade-offs exist between using two (or more) alternate tools and it is not always clear which will serve the collaborative group best.
+In this paper, we lay out resonable expectaitons of modern collaborative tools, a method for evaluating overlapping and/or complementary tools, and describe how particular tools might be used during the research timeline.
+
  
 ##Reasonable expectations
 * What tasks can the tools improve?
