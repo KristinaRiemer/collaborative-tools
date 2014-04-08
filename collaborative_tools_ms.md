@@ -25,6 +25,35 @@ Collaborative tools can aid every step along the research timeline (i.e., idea, 
   * improves work efficiency
   * reproduce-ability
 * some of these tools might be useful for teaching
+
+Question: What activities are these tools useful for?
+* Information types = ideas/brainstorms, data + metadata, data analysis, manuscripts, code, presentations/posters
+
+1. Provide a "holding tank" for all information types, which can be made available to select collaborators or to public; easier for others to access this information
+2. Change information with collaborators--everyone can see what has been changed, improves workflow, i.e., more efficient to work on together, keep track of what's going on
+3. Retain record of all changes that have occurred (can return to previous version when necessary) and who did those changes (account for effort and actions of each collaborator)
+4. With all information and actions recorded, can easily repeat part or all of what was done (reproducibility)
+
+* Need to add in hypothetical examples to make it more concrete
+
+Modern tools are useful for several aspects of collaboration in scientific research. 
+There are four essential collaboration activities: provide information, change information, record changes to information, and reproduce actions. 
+For research, this information comes in many forms which includes, but is not not limited to, ideas/brainstorms, data + metadata, data analysis, manuscripts, code, and presentations/posters. 
+Modern tools can be used to provide information by making many forms of data and writing available online. 
+This information can be available to select collaborators or open to the public. 
+For example, if you need to share a presentation or data with a member of your lab, you can share it with an online tool that will make it available to all of your lab members in the future so that they can use it more easily and quickly. 
+This eliminates the need for lab members to email or ask one another for some piece of information over and over again. 
+Similarly useful are modern collaboration tools that keep track of changes to information. 
+Such tools will keep track of changes and help solve issues with conflicting changes, which greatly improves workflow with collaborators. 
+Tools that retain records of changes to information are helpful for two reasons. 
+Because all changes are recorded, it is easy to return to a previous version of the information when necessary; it is also possible to determine who made changes, and therefore account for the effort and actions of each collaborator. 
+This is especially pertinent when writing code with multiple collaborators. 
+There are tools that track changes to this code, recording when and who made the changes, and have a system for resolving conflicting changes to code. 
+This makes it easy for all collaborators to know how code has changed and to change code without interfering with other changes. 
+The last benefit of using these tools is reproducibility. 
+When these tools record all information and actions completed with that information, it is easy to repeat part or all of what has been done in the research process. 
+Not only can a collaborator determine what has been done in the research process, this can be shared with other scientists who are interested in the research or completing similar research projects. 
+
  
 ##Helpful evaluation techniques
 * cost benefit breakdown 
