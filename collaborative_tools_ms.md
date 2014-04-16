@@ -1,12 +1,12 @@
 ##Introduction
 As collaborative work becomes increasingly the norm in science it is important to develop simple and effective methods to organize, track, and disseminate information at all stages of the scientific process. 
 Using modern communication tools improves record keeping and overall effectiveness of communication and workflow in science collaborations [@Ram2013].
-Collaborative tools benefit the larger research community by increasing communication, transparency, and synergism among complementary research programs. 
+Collaborative tools benefit the larger research community by increasing communication, transparency, and synergism among complementary research programs [@Fichter 2005]. 
 With the growing array of collaborative tools available on-line, it is unclear which are most appropriate for particular tasks (e.g., brainstorming, analyzing, writing) and scales of collaboration (e.g., colleague, lab, working group, research network). 
 Here, we describe ways in which modern collaborative tools can benefit your research program and provide a framework for evaluating and choosing an appropriate tool for collaborative work.  
 In addition, we recognize a number collaborative tools commonly used in ecology and evolutionary biology research programs.
 
-Collaboration is a growing aspect of modern science as evident by growing author lines and increased funding to interdisciplinary work [cite].
+Collaboration is a growing aspect of modern science as evident by growing author lines [@Adams et al. 2005] and increased funding to interdisciplinary work [@Abramo et al. 2009].
 Indeed, collaboration has been a long-standing staple of the scientific process, at the very least through student and mentor relationships.
 Modern collaborative groups consists of interdisciplinary scientists and practicioners with diversified skills sets, both intelectually and technology-based. 
 In addition, group members dedicate various effort to a certain project and must be given opportunity to maximize their time. 
@@ -93,6 +93,17 @@ Not only can a collaborator determine what has been done in the research process
 
 ##References
 Ram, K. 2013. Git can facilitate greater reproducibility and increased transparency in science; http://www.biomedcentral.com/content/pdf/1751-0473-8-7.pdf ; http://informint.blogspot.com/2013/05/git-can-facilitate-greater.html
+
+Abramo, G., et al. 2009. Research collaboration and productivity: is there a correlation? High Education 57: 155 - 171.
+
+Adams, J.D., et al. 2005. Scientific teams and institutional collaborations: Evidence from U.S. universities, 1981-1999. Research Policy 34: 259-285.
+
+Fichter, D. 2005. The many forms of E-collaboration: blogs, wikis, portals, groupware, discussion boards, and instant messaging. Online.
+
+Honeycutt, C., and S.C. Herring. 2009. Beyond Microblogging: Conversation and Collaboration via Twitter. Proceddings of the 42nd Hawaii International Conference on System Sciences.
+
+Iorio, J., et al. 2011. Factors impacting usage patterns of collaborative tools designed to support global virtual design project networks. Journal of Information Technology in Construction. 
+This paper identifies several factors impacting tool usage in collaboration, including "the simplicity of the tool, whether the tool promotes group cohesion, the emergent need for the tools", which may be incorporated into the evaluation section.
 
 ?Slides 13-17,22 include some specific tools that aid in collaboration; they also included time to learn how to use tools
 
