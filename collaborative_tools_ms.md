@@ -83,7 +83,25 @@ Regardless of how these tools are used in collaboration, they can improve the ef
   * (.doc/track changes vs .txt/version control)
 * is the tool intuitive for use and appropriateness?
 * Questions for breakout box
- 
+
+
+Outline:
+
+Is it worth it to learn this collaboration tool?
+
+Questions to ask yourself to answer above question:
+
+1. Is the tool appropriate and useful for task?
+
+2. What level of proficiency with tool is needed for it to be appropriate and useful?
+   * collaboration figure 1
+   * proficiency levels: none, novice, expert
+   * it is very possible for tools that require expert proficiency are worth investment if will have sufficient return
+3. Is is worth learning this tool to necessary proficiency? Tradeoff: time & effort v. usefulness for task (including future usefulness)
+   * collaboration figure 2
+   * only learn tools that are worth it, especially don't learn a tool that you don't anticipate needing just because others are learning it
+
+
 ##Research Timeline
 1. Idea
    * wiki
