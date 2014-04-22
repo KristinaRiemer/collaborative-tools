@@ -71,6 +71,10 @@ The last benefit of using these tools is **reproducibility**.
 When these tools record all information and actions completed with that information, it is easy to repeat part or all of what has been done in the research process. 
 Not only can a collaborator determine what has been done in the research process, this can be shared with other scientists who are interested in the research or completing similar research projects. 
 
+An unintended benefit of using these tools in collaboration is that they can also be used to improve personal research workflow. 
+Scientists can use these tools to recall changes, store information for later access, and repeat parts of the research process when they are working independently just as they can when working with collaborators. 
+Regardless of how these tools are used in collaboration, they can improve the efficiency and reproducibility of every scientist's research. 
+
  
 ##Helpful evaluation techniques
 * cost benefit breakdown 
